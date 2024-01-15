@@ -365,7 +365,7 @@ test[test["Money"].isin(["Elizabeth II 1966 Gillick Sovereign MS64"])]
 
 If you want to understand this in a more simpler language you can check my Medium writing published on `Level Up Coding`
 
-LINK =>
+LINK => https://levelup.gitconnected.com/web-scraping-series-part-iv-world-coins-with-scrapy-data-analysis-with-pandas-6222bb8d6aa7
 
 
 
